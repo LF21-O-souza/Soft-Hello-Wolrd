@@ -1,4 +1,4 @@
-FACIMP - FACULDADE DE IMPERATRIZ
+FACIMP - FACULDADE DE IMPERATRIZ (https://github.com/NT-Facimp)
 
 Disciplina de Engenharia de Software
 
