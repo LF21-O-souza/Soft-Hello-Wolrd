@@ -9,7 +9,7 @@ FACIMP - FACULDADE DE IMPERATRIZ (https://github.com/NT-Facimp)
 
 <h2>Disciplina</h2>
 
-Disciplina de Engenharia de Software
+Disciplina de Engenharia de Software 
 
 <h2>Orientador:</h2>
 
