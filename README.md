@@ -17,7 +17,8 @@ Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agen
 
 <h2>Componentes:</h2>
 
-Grupo: https://github.com/LF21-O-souza, https://github.com/Luysd2, https://github.com/ricarrdoo, https://github.com/thiagoam74, https://github.com/ThalissonDias e https://github.com/p3drodeveloper.
+Grupo: <a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a>, <a href="https://github.com/Luysd2">Luis Sousa</a>, <a href="https://github.com/ricarrdoo">Ricardo</a>, <a href="https://github.com/thiagoam74">Thiago Miranda</a>, 
+<a href="https://github.com/ThalissonDias">Thallison Dias</a> e <a href="https://github.com/p3drodeveloper">Pedro Jardel</a>.
 
 <h2>Sumário</h2>
 
