@@ -5,7 +5,7 @@
 
 <h2>Instituição</h2>
 
-FACIMP - FACULDADE DE IMPERATRIZ (https://github.com/NT-Facimp)
+<a href="https://github.com/NT-Facimp">FACULDADE DE IMPERATRIZ</a>
 
 <h2>Disciplina</h2>
 
