@@ -18,7 +18,7 @@ Engenharia de Software
 <h2>Componentes:</h2>
 
 Grupo: <br><a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a><br> <a href="https://github.com/Luysd2">Luis</a><br> <a href="https://github.com/ricarrdoo">Ricardo</a><br> <a href="https://github.com/thiagoam74">Thiago Miranda</a><br> 
-<a href="https://github.com/ThalissonDias">Thallison Dias</a><br> <a href="https://github.com/p3drodeveloper">Pedro</a>.
+<a href="https://github.com/ThalissonDias">Thallison Dias</a><br> <a href="https://github.com/p3drodeveloper">Pedro</a>
 
 <h2>Sumário</h2>
 
