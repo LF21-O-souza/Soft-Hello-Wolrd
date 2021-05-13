@@ -9,11 +9,11 @@
 
 <h2>Disciplina</h2>
 
-Disciplina de Engenharia de Software 
+Engenharia de Software 
 
 <h2>Orientador:</h2>
 
-Professor: <a href="https://github.com/agenteph">Paulo Henrique Sousa Barbosa</a>
+<a href="https://github.com/agenteph">Paulo Henrique Sousa Barbosa</a>
 
 <h2>Componentes:</h2>
 
