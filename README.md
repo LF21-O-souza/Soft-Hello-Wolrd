@@ -13,12 +13,12 @@ Disciplina de Engenharia de Software
 
 <h2>Orientador:</h2>
 
-Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agenteph)
+Professor: <a href="https://github.com/agenteph">Paulo Henrique Sousa Barbosa</a>
 
 <h2>Componentes:</h2>
 
-Grupo: <a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a>, <a href="https://github.com/Luysd2">Luis</a>, <a href="https://github.com/ricarrdoo">Ricardo</a>, <a href="https://github.com/thiagoam74">Thiago Miranda</a>, 
-<a href="https://github.com/ThalissonDias">Thallison Dias</a> e <a href="https://github.com/p3drodeveloper">Pedro</a>.
+Grupo: <a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a><br> <a href="https://github.com/Luysd2">Luis</a><br> <a href="https://github.com/ricarrdoo">Ricardo</a><br> <a href="https://github.com/thiagoam74">Thiago Miranda</a><br> 
+<a href="https://github.com/ThalissonDias">Thallison Dias</a><br> <a href="https://github.com/p3drodeveloper">Pedro</a>.
 
 <h2>Sumário</h2>
 
