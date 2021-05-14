@@ -9,7 +9,7 @@
 
 <h2>Disciplina</h2>
 
-Engenharia de Software 
+Engenharia de Software
 
 <h2>Orientador:</h2>
 
