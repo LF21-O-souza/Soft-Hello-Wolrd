@@ -6,6 +6,7 @@
 
 <h2>Instituição</h2>
 
+<img src="https://github.com/LF21-O-souza/Soft-Hello-Wolrd/blob/main/MicrosoftTeams-image.png" width="200px" height="200px">
 <a href="https://github.com/NT-Facimp">FACULDADE DE IMPERATRIZ - FACIMP</a>
 
 <h2>Disciplina</h2>
